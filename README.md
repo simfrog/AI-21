@@ -6,13 +6,13 @@
  * code : ssu_ai/Project2.ipynb
 
 ## train data 최종 성능
- accuracy : 0.6872
- precision : 0.6058
- recall : 0.8864
- f1 : 0.7197
- auc : 0.7734
- 
+ accuracy : 0.6872  
+ precision : 0.6058  
+ recall : 0.8864  
+ f1 : 0.7197  
+ auc : 0.7734  
+   
 ## test data 최종 성능
- accuracy : 0.690897
- f1 : 0.719202
- auc : 0.764992
+ accuracy : 0.690897  
+ f1 : 0.719202  
+ auc : 0.764992  
