@@ -1,3 +1,4 @@
+### '파이썬 기초 머신러닝' 책 참고
 <creditcard, train_santander.csv는 따로 다운로드 필요>
 
 # Project 2 - Kaggle style : 투표 참여 예측
